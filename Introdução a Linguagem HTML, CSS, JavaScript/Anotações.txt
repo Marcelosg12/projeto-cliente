@@ -1,0 +1,5 @@
+1 - Organizar horários de estudos;
+2 - Aprofundar Conhecimentos em HTML;
+3 - Estudar CSS e JavaScript;
+4 - Assistir vídeo aulas;
+5 - Participar de Desafios;
